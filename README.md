@@ -33,3 +33,5 @@ to bring forth sights and actionable plans to improve sales performance across r
 ### This is a table showing region by sales
 
 ![SALES BY REGION](https://github.com/user-attachments/assets/120b73f5-98ca-40a2-a12a-1a68ce43c170)
+
+
