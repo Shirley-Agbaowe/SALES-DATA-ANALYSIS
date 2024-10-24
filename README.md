@@ -30,22 +30,31 @@ to bring forth sights and actionable plans to improve sales performance across r
 
 
 # Data analysis
-### This is a table showing region by sales
+### This is a table showing region by revenue
+![SALES BY REGION](https://github.com/user-attachments/assets/61f46477-13bb-461c-bc3e-164e6a48b018)
+
+
 
 
 
 
 ### This is a table showing the Revenie by Product
+![REVENUE BY PRODUCT TABLE](https://github.com/user-attachments/assets/9bccb804-fc30-4f74-8cc8-9582d409cc66)
+
 
 
 
 ### This dougnut chart shows the Percentage revenue by region
+![PERCENTAGE SALES TABLE](https://github.com/user-attachments/assets/6cc166a5-a545-45aa-a230-d4b9287c49aa)
+
 
 
 
 
 
 # Data visualizations 
+
+
 
 
 
