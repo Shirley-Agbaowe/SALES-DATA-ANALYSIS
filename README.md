@@ -30,6 +30,7 @@ to bring forth sights and actionable plans to improve sales performance across r
 
 
 # Data analysis
+!(image_alt)https://github.com/Shirley-Agbaowe/SALES-DATA-ANALYSIS/blob/4abec678f3c5d2fb963f8b5025601c23cd5c6118/SALES%20BY%20REGION.PNG
 
 
 
