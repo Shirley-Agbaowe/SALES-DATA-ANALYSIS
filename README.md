@@ -30,7 +30,6 @@ to bring forth sights and actionable plans to improve sales performance across r
 
 
 # Data analysis
-### This is a table showing region by revenue
 
 
 
@@ -47,9 +46,8 @@ to bring forth sights and actionable plans to improve sales performance across r
 
 
 
-# Data visualizations 
 
-SALES BY REGION.PNG
+# Data visualization
 
 
 
