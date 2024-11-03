@@ -30,6 +30,8 @@ to bring forth sights and actionable plans to improve sales performance across r
 
 
 # Data analysis
+#### This is a pivot table summarization of sales by region
+[view](https://docs.google.com/document/d/1ppb0vHHpQTqRJUDUBScrhDn2BNmbYbGOc0jPyjKYtH0/edit?tab=t.0)
 
 
 
