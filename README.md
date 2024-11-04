@@ -51,6 +51,7 @@ to bring forth sights and actionable plans to improve sales performance across r
 
 
 # Data visualization
+[view](https://docs.google.com/document/d/1qBLS2itzE4EnsFxr_Td4E4f7NKCX-dd4Cju_RYaH09U/edit?tab=t.0)
 
 
 
