@@ -20,11 +20,11 @@ to bring forth sights and actionable plans to improve sales performance across r
 
  
 # Exploratory data analysis
-#### Exploratory data analysis involved exploring the data set to format the data and to answer questions about the datset such as;
+#### Exploratory data analysis involved exploring the data set to format the data and to answer questions about the dataset such as;
 - What is the total revenue?
 - What are the product sales by region?
 - What are the sales by region?
-- Average sales by revenue
+- Average sales by region
 - Percentage sales by revenue
 - Percentage sales by product
 
@@ -32,6 +32,11 @@ to bring forth sights and actionable plans to improve sales performance across r
 # Data analysis
 #### This is a pivot table summarization of sales by region
 [view](https://docs.google.com/document/d/1ppb0vHHpQTqRJUDUBScrhDn2BNmbYbGOc0jPyjKYtH0/edit?tab=t.0)
+
+#### This is a pivot table summarization of sales by product
+[view](https://docs.google.com/document/d/1rTwlzBoUtUNI2yEBwVoNMH4m8IlJmtzn/edit?rtpof=true)
+
+
 
 
 
@@ -52,6 +57,8 @@ to bring forth sights and actionable plans to improve sales performance across r
 
 # Data visualization
 [view](https://docs.google.com/document/d/1qBLS2itzE4EnsFxr_Td4E4f7NKCX-dd4Cju_RYaH09U/edit?tab=t.0)
+
+[view](
 
 
 
