@@ -36,6 +36,11 @@ to bring forth sights and actionable plans to improve sales performance across r
 #### This is a pivot table summarization of sales by product
 [view](https://docs.google.com/document/d/1rTwlzBoUtUNI2yEBwVoNMH4m8IlJmtzn/edit?rtpof=true)
 
+#### Pivot table summarization of average sales by region
+[view](https://docs.google.com/document/d/1ecsE20IdzHdjT2FInbWJuGfktagWScgM/edit)
+
+
+
 
 
 
@@ -58,7 +63,9 @@ to bring forth sights and actionable plans to improve sales performance across r
 # Data visualization
 [view](https://docs.google.com/document/d/1qBLS2itzE4EnsFxr_Td4E4f7NKCX-dd4Cju_RYaH09U/edit?tab=t.0)
 
-[view](
+[view](https://docs.google.com/document/d/1-LIwrsLgcgAKSTNjbeWfPtwGHNdBeoE4/edit)
+
+[view](https://docs.google.com/document/d/19DIqWHzh2jTCfEwtsChgV1xzPX_85wiU/edit)
 
 
 
