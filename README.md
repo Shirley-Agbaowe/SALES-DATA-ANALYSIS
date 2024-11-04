@@ -39,6 +39,9 @@ to bring forth sights and actionable plans to improve sales performance across r
 #### Pivot table summarization of average sales by region
 [view](https://docs.google.com/document/d/1ecsE20IdzHdjT2FInbWJuGfktagWScgM/edit)
 
+#### Pie Chart showing percentage sales by region
+
+
 
 
 
@@ -66,6 +69,8 @@ to bring forth sights and actionable plans to improve sales performance across r
 [view](https://docs.google.com/document/d/1-LIwrsLgcgAKSTNjbeWfPtwGHNdBeoE4/edit)
 
 [view](https://docs.google.com/document/d/19DIqWHzh2jTCfEwtsChgV1xzPX_85wiU/edit)
+
+[view](https://docs.google.com/document/d/1Jh4s5_fszsOky1k8ahT6YGtpAl6cHg8h/edit)
 
 
 
