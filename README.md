@@ -14,6 +14,13 @@ to bring forth sights and actionable plans to improve sales performance across r
 - For Data loading, preparation and exploration
 - For Data formatting
 - For Data analysis and visualization
+#### Power BI
+- Data cleaning and formatting
+- Data analysis expressions (DAX)
+- Dashboard creation for visualization
+
+#### SQL
+- for querying the dataset
 
 #### GitHub
 -  For portfolio building
