@@ -84,6 +84,8 @@ to bring forth sights and actionable plans to improve sales performance across r
 
 [view](https://docs.google.com/document/d/1Jh4s5_fszsOky1k8ahT6YGtpAl6cHg8h/edit)
 
+[view](https://drive.google.com/drive/u/0/home)
+
 
 
 
