@@ -84,6 +84,12 @@ to bring forth sights and actionable plans to improve sales performance across r
 
 [view](https://docs.google.com/document/d/1Jh4s5_fszsOky1k8ahT6YGtpAl6cHg8h/edit)
 
+[view](https://docs.google.com/document/d/1YXypENyOv4MxA_hQi7YlRj9J1XvCOEXb/edit)
+
+
+# Sales analysis report
+
+
 
 
 
