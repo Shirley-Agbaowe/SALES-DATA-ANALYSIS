@@ -26,7 +26,7 @@ Product: Name of the product sold
 
 Region: Geographic region of the sale
 
-Order Date: The date which the product was ordered
+Order Date: The date on which the product was ordered
 
 Quantity: Number of units sold
 
@@ -36,22 +36,33 @@ Unit Price: Price per unit
 # Tools used
 #### Microsoft Excel
 - For Data loading, preparation and exploration
-- For Data formatting
-- For Data analysis and visualization
+- For Data formatting checking data types and removing duplicates
+- For Data analysis using Excel functions (SUM, COUNT, AVERAGE, AVERAGEIF, AND SUMIF) for statistical calculations like total revenue, and average revenue.
+- Pivot table for summarization and visualization
 #### Power BI
-- Data cleaning and formatting
+- Data cleaning and formatting using power query editor to clean the data, change the data type, create conditional columns, etc
 - Data analysis expressions (DAX)
 - Dashboard creation for visualization
 
 #### SQL
 - for querying the dataset
+-  Data Import: Load the data into a SQL database (SQL Server).
+
+ii. Inspect Table Structure: USE sales data or SELECT * FROM [dbo].[SALESDATA]
+
+iii. Basic Queries:
+
+Create DATABASE SALESADATA DB
+
+SELECT * FROM [dbo].[SALESDATA DB]
 
 #### GitHub
 -  For portfolio building
 
  
 # Exploratory data analysis
-#### Exploratory data analysis involved exploring the data set to format the data and to answer questions about the dataset such as;
+#### Exploratory data analysis involves exploring the data set to format the data and to answer questions about the dataset such as;
+-Using Excel
 - What is the total sales?
 - What is the average sales?
 - What are the product sales by region?
@@ -59,6 +70,28 @@ Unit Price: Price per unit
 - Average sales by region
 - Percentage sales by revenue
 - Percentage sales by product
+
+-Using SQL
+- Queries to extract key insights based on the following questions.
+
+- Retrieve the total sales for each product category.
+
+- Find the number of sales transactions in each region.
+
+- Find the highest-selling product by total sales value.
+
+- Calculate total revenue per product.
+
+  Calculate monthly sales totals for the current year.
+
+- Find the top 5 customers by total purchase amount.
+
+- Calculate the percentage of total sales contributed by each region.
+
+- Identify products with no sales in the last quarter.
+
+Some of the queries:
+https://docs.google.com/document/d/13Ywhd9AYT6XPL7McxxT2MiyDKfXa-JBZ/edit?rtpof=true
 
 
 # Data analysis
