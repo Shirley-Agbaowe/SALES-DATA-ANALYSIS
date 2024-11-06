@@ -14,7 +14,7 @@ to bring forth sights and actionable plans to improve sales performance across r
 #### The primary data source used here is data sales.xlsx, this is open source data that can be downloaded freely from an Open source online such as Kaggle or any other data repository site.
 
 Data Description or Characteristics
--Datasets Raw Dataset (LITA CAPSTONE DATASET.XLSX) [Download here](https://drive.google.com/drive/u/0/home)
+-Datasets Raw Dataset (LITA CAPSTONE DATASET.XLSX) https://drive.google.com/drive/u/0/home
 
 It contains the original sales data including fields such as:
 
