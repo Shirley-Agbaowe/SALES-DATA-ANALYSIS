@@ -8,13 +8,13 @@ to bring forth sights and actionable plans to improve sales performance across r
 # Objectives
 - Customer analysis: To identify customer segments and regions
 - Product performance: reviewing product performance and profitability
-- Revenue analysis: To identify revenue generated across region, order date, and customer demographics
+- Revenue analysis: To identify revenue generated across the region, order date, and customer demographics
 
 # Data sources
-#### The primary data source used here is data sales.xlsx, and this is open source data that can be downloaded freely from an Open source online such as Kaggle or any other data repository site.
+#### The primary data source used here is data sales.xlsx, this is open source data that can be downloaded freely from an Open source online such as Kaggle or any other data repository site.
 
 Data Description or Characteristics
--Datasets Raw Dataset (LITA CAPSTONE DATASET.XLSX) view
+-Datasets Raw Dataset (LITA CAPSTONE DATASET.XLSX) [Download here](https://drive.google.com/drive/u/0/home)
 
 It contains the original sales data including fields such as:
 
