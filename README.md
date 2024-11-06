@@ -133,14 +133,19 @@ https://docs.google.com/document/d/1ecsE20IdzHdjT2FInbWJuGfktagWScgM/edit
 
 
 # Data visualization
+-SALES BY REGION
 https://docs.google.com/document/d/1qBLS2itzE4EnsFxr_Td4E4f7NKCX-dd4Cju_RYaH09U/edit?tab=t.0
 
+-SALES BY PRODUCT
 https://docs.google.com/document/d/1-LIwrsLgcgAKSTNjbeWfPtwGHNdBeoE4/edit
 
+-AVERAGE SALES BY REGION
 https://docs.google.com/document/d/19DIqWHzh2jTCfEwtsChgV1xzPX_85wiU/edit
 
+-PERCENTAGE SALES BY REGION
 https://docs.google.com/document/d/1Jh4s5_fszsOky1k8ahT6YGtpAl6cHg8h/edit
 
+-SALES DATA ANALYSIS DASHBOARD VISUALIZATION
 https://docs.google.com/document/d/1YXypENyOv4MxA_hQi7YlRj9J1XvCOEXb/edit
 
 
