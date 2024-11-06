@@ -62,7 +62,7 @@ SELECT * FROM [dbo].[SALESDATA DB]
  
 # Exploratory data analysis
 #### Exploratory data analysis involves exploring the data set to format the data and to answer questions about the dataset such as;
--Using Excel
+-Using Excel  https://docs.google.com/spreadsheets/d/1GJ9ygB0GNIJoW58nH4p7eezGd2ldQ4Yg/edit?gid=1154912660#gid=1154912660
 - What is the total sales?
 - What is the average sales?
 - What are the product sales by region?
