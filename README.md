@@ -100,13 +100,13 @@ https://docs.google.com/document/d/13Ywhd9AYT6XPL7McxxT2MiyDKfXa-JBZ/edit?rtpof=
 - AVERAGE SALES=AVERAGE(SALESDATA[SALES])
   
 #### This is a pivot table summarization of sales by region
-[view](https://docs.google.com/document/d/1ppb0vHHpQTqRJUDUBScrhDn2BNmbYbGOc0jPyjKYtH0/edit?tab=t.0)
+https://docs.google.com/document/d/1ppb0vHHpQTqRJUDUBScrhDn2BNmbYbGOc0jPyjKYtH0/edit?tab=t.0
 
 #### This is a pivot table summarization of sales by product
-[view](https://docs.google.com/document/d/1rTwlzBoUtUNI2yEBwVoNMH4m8IlJmtzn/edit?rtpof=true)
+https://docs.google.com/document/d/1rTwlzBoUtUNI2yEBwVoNMH4m8IlJmtzn/edit?rtpof=true
 
 #### Pivot table summarization of average sales by region
-[view](https://docs.google.com/document/d/1ecsE20IdzHdjT2FInbWJuGfktagWScgM/edit)
+https://docs.google.com/document/d/1ecsE20IdzHdjT2FInbWJuGfktagWScgM/edit
 
 #### Pie Chart showing percentage sales by region
 
@@ -133,15 +133,15 @@ https://docs.google.com/document/d/13Ywhd9AYT6XPL7McxxT2MiyDKfXa-JBZ/edit?rtpof=
 
 
 # Data visualization
-[view](https://docs.google.com/document/d/1qBLS2itzE4EnsFxr_Td4E4f7NKCX-dd4Cju_RYaH09U/edit?tab=t.0)
+https://docs.google.com/document/d/1qBLS2itzE4EnsFxr_Td4E4f7NKCX-dd4Cju_RYaH09U/edit?tab=t.0
 
-[view](https://docs.google.com/document/d/1-LIwrsLgcgAKSTNjbeWfPtwGHNdBeoE4/edit)
+https://docs.google.com/document/d/1-LIwrsLgcgAKSTNjbeWfPtwGHNdBeoE4/edit
 
-[view](https://docs.google.com/document/d/19DIqWHzh2jTCfEwtsChgV1xzPX_85wiU/edit)
+https://docs.google.com/document/d/19DIqWHzh2jTCfEwtsChgV1xzPX_85wiU/edit
 
-[view](https://docs.google.com/document/d/1Jh4s5_fszsOky1k8ahT6YGtpAl6cHg8h/edit)
+https://docs.google.com/document/d/1Jh4s5_fszsOky1k8ahT6YGtpAl6cHg8h/edit
 
-[view](https://docs.google.com/document/d/1YXypENyOv4MxA_hQi7YlRj9J1XvCOEXb/edit)
+https://docs.google.com/document/d/1YXypENyOv4MxA_hQi7YlRj9J1XvCOEXb/edit
 
 
 # Sales analysis report
