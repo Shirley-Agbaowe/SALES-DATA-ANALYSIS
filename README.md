@@ -5,8 +5,32 @@
 #### This project is aimed at analyzing the sales data for the sales performance of each product category across the sales region over some time
 to bring forth sights and actionable plans to improve sales performance across regions.
 
+# Objectives
+- Customer analysis: To identify customer segments and regions
+- Product performance: reviewing product performance and profitability
+- Revenue analysis: To identify revenue generated across region, order date, and customer demographics
+
 # Data sources
-#### The primary data source used here is data sales.xlsx,  authored by The Incubator Hub Tech team.
+#### The primary data source used here is data sales.xlsx, and this is open source data that can be downloaded freely from an Open source online such as Kaggle or any other data repository site.
+
+Data Description or Characteristics
+-Datasets Raw Dataset (LITA CAPSTONE DATASET.XLSX) view
+
+It contains the original sales data including fields such as:
+
+OrderID: The order identification number
+
+Customer_ID: Identification number of the customer
+
+Product: Name of the product sold
+
+Region: Geographic region of the sale
+
+Order Date: The date which the product was ordered
+
+Quantity: Number of units sold
+
+Unit Price: Price per unit
 
 
 # Tools used
